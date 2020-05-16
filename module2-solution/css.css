@@ -9,7 +9,8 @@ section {margin: 10px
         }  
 
 p {margin: 0px;
-   clear: both;}  
+   clear: both;
+   padding: 10px;}  
 
 h2 { font-size: 36px;
     margin: 0px;
